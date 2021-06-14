@@ -1,6 +1,6 @@
 # FriendlySpots
 
-Social Media App which combines Facebook and Google Maps to create In-Person Meetings at Mutually Interesting locations by category and current friend Presence with robust privacy
+Social Media App which combines Facebook and Google Maps to create In-Person Meetings at Mutually Interesting Locations by Category and Current friend Presence with robust privacy
 
 Never published due to lack of interest after learning of Google Maps API Cost but a single person can test for free to see the results and learn the API usage  for Google Maps and Facebook.
 
